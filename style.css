@@ -1,0 +1,35 @@
+a {
+    color: #f1f1ff;
+    text-decoration: none;
+    font-size: 20px;
+}
+
+body{
+    margin: 0;
+    font-family: 'Open Sans', sans-serif;
+}
+
+header{
+    background-image: url("image2.jpg");
+    background-position: center;
+    height: 380px;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+h1{
+    text-align: center;
+}
+
+p{
+    padding: 20px;
+}
+
+
+nav {
+    background-color: #000000;
+    display: flex;
+    justify-content: space-evenly;
+    height: 50px;
+    line-height: 40px;
+}
