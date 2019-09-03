@@ -5,7 +5,7 @@
 <h3>Primeiro dia de códigos na Estação Hack </h3>
 <p>Programamos um site sobre Friends! Eu fiz um pouco diferente e fiz sobre Star Wars!</p>
 
-<b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Coisas legais citadas na aula:</b>
+<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Coisas legais citadas na aula:</h4>
 
 <ul>
   <li> * + quantidade de itens = gerar diversas linhas de códigos iguais no VS Code </li>
@@ -14,7 +14,7 @@
   <li> Site de documentação do Git -> <a href="https://git-scm.com/doc">Documentação</a> </li>
 </ul>
 
-<b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</b>
+<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</h4>
 
 <ul>
   <li><b><i>Criar novo repositório =</i></b> git init</li>
