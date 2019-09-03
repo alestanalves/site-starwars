@@ -25,7 +25,7 @@
   <li><b><i>Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório) =</i></b> git add -f arquivo_no_gitignore.txt </li>
   <li><b><i>Comitar arquivo =</i></b> git commit meu_arquivo.txt </li>
   <li><b><i>Comitar vários arquivos =</i></b> git commit meu_arquivo.txt meu_outro_arquivo.txt </li>
-  <li><b><i>Comitar informando mensagem =</i></b> git commit meuarquivo.txt -m "minha mensagem de commit</li>
+  <li><b><i>Comitar informando mensagem =</i></b> git commit meuarquivo.txt -m "minha mensagem de commit"</li>
   <li><b><i>Remover arquivo =</i></b> git rm meu_arquivo.txt </li>
   <li><b><i>Remover diretório =</i></b> git rm -r diretorio</li>
 </ul>
