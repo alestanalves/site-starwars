@@ -5,9 +5,7 @@
 <h3>Primeiro dia de códigos na Estação Hack </h3>
 <p>Programamos um site sobre Friends, eu fiz um pouco diferente e fiz sobre Star Wars!</p>
 
-<img src="https://media.giphy.com/media/YwjzRjSaCWlP2/source.gif"   />
-
-<b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="20"  />Coisas legais citadas na aula:</b>
+<b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="50"  />Coisas legais citadas na aula:</b>
 
 
 
