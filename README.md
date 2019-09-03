@@ -32,9 +32,9 @@
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
 
-Confirme as checkbox se completar cada um dos dias =)
+Minhas checkbox para cada um dos dias, full dopamina ao completar cada item =)
   
-- [ ] Dia 1 - 02/09/2019
+- [x] Dia 1 - 02/09/2019
 - [ ] Dia 2 - 03/09/2019
 - [ ] Dia 3 - 04/09/2019
 - [ ] Dia 4 - 05/09/2019
