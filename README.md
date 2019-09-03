@@ -30,6 +30,16 @@
   <li><b><i>Remover diretório =</i></b> git rm -r diretorio</li>
 </ul>
 
+<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
+<p>
+ Confirme se completar cada um dos dias =)
+  
+  [] Dia 1 - 02/09/2019
+  [] Dia 2 - 03/09/2019
+  [] Dia 3 - 04/09/2019
+  [] Dia 4 - 05/09/2019
+  [] Dia 5 - 06/09/2019
+
 <footer>
  
 <img src="https://media.giphy.com/media/rHR8qP1mC5V3G/source.gif"/>
