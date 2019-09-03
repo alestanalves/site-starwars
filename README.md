@@ -17,7 +17,7 @@
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</h4>
 
 <ul>
-  <li><b><i>Criar novo repositório =</i></b> git init</li>
+  <li><b><i>Criar novo repositório =</i></b></li> `git init`
   <li><b><i>Verificar estado dos arquivos/diretórios =</i></b> git status</li>
   <li><b><i>Adicionar um arquivo em específico =</i></b> git add meu_arquivo.txt</li>
   <li><b><i>Adicionar um diretório em específico =</i></b> git add meu_diretorio</li>
