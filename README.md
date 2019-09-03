@@ -16,19 +16,19 @@
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</h4>
 
-<ul>
-  <li><b><i>Criar novo repositório =</i></b></li> `git init`
-  <li><b><i>Verificar estado dos arquivos/diretórios =</i></b> git status</li>
-  <li><b><i>Adicionar um arquivo em específico =</i></b> git add meu_arquivo.txt</li>
-  <li><b><i>Adicionar um diretório em específico =</i></b> git add meu_diretorio</li>
-  <li><b><i>Adicionar todos os arquivos/diretórios =</i></b> git add . </li>
-  <li><b><i>Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório) =</i></b> git add -f arquivo_no_gitignore.txt </li>
-  <li><b><i>Comitar arquivo =</i></b> git commit meu_arquivo.txt </li>
-  <li><b><i>Comitar vários arquivos =</i></b> git commit meu_arquivo.txt meu_outro_arquivo.txt </li>
-  <li><b><i>Comitar informando mensagem =</i></b> git commit meuarquivo.txt -m "minha mensagem de commit"</li>
-  <li><b><i>Remover arquivo =</i></b> git rm meu_arquivo.txt </li>
-  <li><b><i>Remover diretório =</i></b> git rm -r diretorio</li>
-</ul>
+
+ Criar novo repositório = `git init`
+ Verificar estado dos arquivos/diretórios = git status
+ Adicionar um arquivo em específico = git add meu_arquivo.txt
+ Adicionar um diretório em específico =</i></b> git add meu_diretorio
+ Adicionar todos os arquivos/diretórios = git add . 
+ Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório) =</i></b> git add -f arquivo_no_gitignore.txt 
+ Comitar arquivo =</i></b> git commit meu_arquivo.txt </li>
+ Comitar vários arquivos =</i></b> git commit meu_arquivo.txt meu_outro_arquivo.txt </li>
+ Comitar informando mensagem =</i></b> git commit meuarquivo.txt -m "minha mensagem de commit"</li>
+ Remover arquivo =</i></b> git rm meu_arquivo.txt </li>
+ Remover diretório =</i></b> git rm -r diretorio</li>
+
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
 
