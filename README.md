@@ -9,6 +9,7 @@
 
 <ul>
   <li> * + quantidade de itens = gerar diversas linhas de códigos iguais </li>
+  <li> site <a href= "lerolero.com">LeroLero</a>
 </ul>
 
 
