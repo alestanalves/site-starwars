@@ -7,7 +7,7 @@
 
 <img src="https://media.giphy.com/media/YwjzRjSaCWlP2/source.gif"  />
 
-<b><img src="https://media.giphy.com/media/YwjzRjSaCWlP2/source.gif"  />Coisas legais citadas na aula:</b>
+<b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  />Coisas legais citadas na aula:</b>
 
 
 
