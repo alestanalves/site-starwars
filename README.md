@@ -7,9 +7,9 @@
 
 <b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Coisas legais citadas na aula:</b>
 
-<p>
-  <b>* + quantidade =</b> atalho para criar multiplas linhas de códigos iguais no Visual Studio Code.
- Site: lerolero.com
+<ul>
+  <li> * + quantidade de itens = gerar diversas linhas de códigos iguais </li>
+</ul>
 
 
 <footer>
