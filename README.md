@@ -39,7 +39,7 @@
   [] Dia 3 - 04/09/2019
   [] Dia 4 - 05/09/2019
   [] Dia 5 - 06/09/2019
-
+</p>
 <footer>
  
 <img src="https://media.giphy.com/media/rHR8qP1mC5V3G/source.gif"/>
