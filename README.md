@@ -1,6 +1,6 @@
 <nav>
   <h1>Academia - Mastertech - Estação Hack</h1>
-  <img src="https://ftp.mastertech.com.br/Nginx-Fancyindex-Theme/Nginx-Fancyindex-Theme-light/estacao-logo.png"  width="50" height="50"  />
+  <img src="https://ftp.mastertech.com.br/Nginx-Fancyindex-Theme/Nginx-Fancyindex-Theme-light/estacao-logo.png"  width="100"  />
 </nav>
   
 <h3>Primeiro dia de códigos na Estação Hack </h3>
