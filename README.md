@@ -16,7 +16,7 @@
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</h4>
 
-
+<>
  **_Criar novo repositório_** = `git init`
  **_Verificar estado dos arquivos/diretórios_** = `git status`
  **_Adicionar um arquivo em específico_** = `git add meu_arquivo.txt`
@@ -28,7 +28,7 @@
  **_Comitar informando mensagem_** = `git commit meuarquivo.txt -m "minha mensagem de commit"`
  **_Remover arquivo_** = `git rm meu_arquivo.txt`
  **_Remover diretório_** = `git rm -r diretorio`
-
+</>
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
 
