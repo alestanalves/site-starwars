@@ -12,6 +12,7 @@
   <li> Site com citações sem contexto ->  <a href="https://lerolero.com/" target="_blank">LeroLero</a>
   <li> Site para baixar o Git -> <a href="https://git-scm.com/downloads" target="_blank">>Dowload Git</a> </li>
   <li> Site de documentação do Git -> <a href="https://git-scm.com/doc"target="_blank">>Documentação</a> </li>
+  <li> Site com animações 3D em JS -> <a href="https://threejs.org/ "target="_blank">>Documentação</a> </li>
 </ul>
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</h4>
@@ -37,6 +38,8 @@
 - **_Vincular repositório local com um repositório remoto_** = `git remote add origin git@github.com:leocomelli/curso-git.git`
 - **_Atualizar os arquivos no branch atual_** = `git push -u origin master`
 - **_Geral_** = `git help`
+- **_Acessar pasta_** = `cd nomedapasta`
+- **_Listar o que tem na pastas_** = `ls`
 
 
 
