@@ -9,7 +9,7 @@
 
 <p>
   <b>* + quantidade =</b> atalho para criar multiplas linhas de códigos iguais no Visual Studio Code.
-  Site: lerolero.com
+ Site: lerolero.com
 
 
 <footer>
