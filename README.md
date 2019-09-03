@@ -9,9 +9,9 @@
 
 <ul>
   <li> * + quantidade de itens = gerar diversas linhas de códigos iguais no VS Code </li>
-  <li> Site com citações sem contexto -> <a href= "https://lerolero.com/" target="_blank">LeroLero</a> </li>
-  <li> Site para baixar o Git -> <a href="https://git-scm.com/downloads">Dowload Git</a> </li>
-  <li> Site de documentação do Git -> <a href="https://git-scm.com/doc">Documentação</a> </li>
+  <li> Site com citações sem contexto ->  <a href="https://lerolero.com/" target="_blank">Txt</a>
+  <li> Site para baixar o Git -> <a href="https://git-scm.com/downloads" target="_blank">>Dowload Git</a> </li>
+  <li> Site de documentação do Git -> <a href="https://git-scm.com/doc"target="_blank">>Documentação</a> </li>
 </ul>
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</h4>
