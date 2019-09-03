@@ -8,8 +8,8 @@
 <b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Coisas legais citadas na aula:</b>
 
 <ul>
-  <li> * + quantidade de itens = gerar diversas linhas de códigos iguais </li>
-  <li> site <a href= "lerolero.com">LeroLero</a>
+  <li> * + quantidade de itens = gerar diversas linhas de códigos iguais no VS Code </li>
+  <li> Site com citações sem contexto<a href= "lerolero.com">LeroLero</a>
 </ul>
 
 
