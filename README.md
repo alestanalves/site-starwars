@@ -3,11 +3,12 @@
 </nav>
   
 <h3>Primeiro dia de códigos na Estação Hack </h3>
-<p>Programamos um site sobre Friends, eu fiz um pouco diferente e fiz sobre Star Wars!</p>
+<p>Programamos um site sobre Friends! Eu fiz um pouco diferente e fiz sobre Star Wars!</p>
 
 <b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Coisas legais citadas na aula:</b>
 
-
+<p>
+  <b>* + quantidade =</b> atalho para criar multiplas linhas de códigos iguais no Visual Studio Code.
 
 
 <footer>
