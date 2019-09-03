@@ -17,17 +17,17 @@
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</h4>
 
 
- Criar novo repositório = `git init`
- Verificar estado dos arquivos/diretórios = git status
- Adicionar um arquivo em específico = git add meu_arquivo.txt
- Adicionar um diretório em específico =</i></b> git add meu_diretorio
- Adicionar todos os arquivos/diretórios = git add . 
- Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório) =</i></b> git add -f arquivo_no_gitignore.txt 
- Comitar arquivo =</i></b> git commit meu_arquivo.txt </li>
- Comitar vários arquivos =</i></b> git commit meu_arquivo.txt meu_outro_arquivo.txt </li>
- Comitar informando mensagem =</i></b> git commit meuarquivo.txt -m "minha mensagem de commit"</li>
- Remover arquivo =</i></b> git rm meu_arquivo.txt </li>
- Remover diretório =</i></b> git rm -r diretorio</li>
+ **_Criar novo repositório_** = `git init`
+ **_Verificar estado dos arquivos/diretórios_** = `git status`
+ **_Adicionar um arquivo em específico_** = `git add meu_arquivo.txt`
+ **_Adicionar um diretório em específico_** = `git add meu_diretorio`
+ **_Adicionar todos os arquivos/diretórios_** = `git add . `
+ **_Adicionar um arquivo que esta listado no .gitignore (geral ou do repositório)_** = `git add -f arquivo_no_gitignore.txt `
+ **_Comitar arquivo_** = `git commit meu_arquivo.txt` 
+ **_Comitar vários arquivos_** = `git commit meu_arquivo.txt meu_outro_arquivo.txt `
+ **_Comitar informando mensagem_** = `git commit meuarquivo.txt -m "minha mensagem de commit"`
+ **_Remover arquivo_** = `git rm meu_arquivo.txt`
+ **_Remover diretório_** = `git rm -r diretorio`
 
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
