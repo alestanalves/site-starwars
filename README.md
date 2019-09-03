@@ -28,6 +28,16 @@
  - **_Comitar informando mensagem_** = `git commit meuarquivo.txt -m "minha mensagem de commit"`
  - **_Remover arquivo_** = `git rm meu_arquivo.txt`
 - **_Remover diretório_** = `git rm -r diretorio`
+- **_Setar usuário_** = `git config --global user.name "Leonardo Comelli`
+- **_Setar email_** = `git config --global user.email leonardo@software-ltda.com.br`
+- **_Listar configurações_** = `git config --list`
+- **_Exibir histórico_** = `git log`
+- **_Clonar um repositório remoto já existente_** = `git clone git@github.com:leocomelli/curso-git.git`
+- **_Exibir os repositórios remotos_** = `git remote`
+- **_Vincular repositório local com um repositório remoto_** = `git remote add origin git@github.com:leocomelli/curso-git.git`
+- **_Atualizar os arquivos no branch atual_** = `git push -u origin master`
+- **_Geral_** = `git help`
+
 
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
