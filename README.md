@@ -34,11 +34,11 @@
 
 Confirme as checkbox se completar cada um dos dias =)
   
-[] Dia 1 - 02/09/2019
-[] Dia 2 - 03/09/2019
-[] Dia 3 - 04/09/2019
-[] Dia 4 - 05/09/2019
-[] Dia 5 - 06/09/2019
+- [ ] Dia 1 - 02/09/2019
+- [ ] Dia 2 - 03/09/2019
+- [ ] Dia 3 - 04/09/2019
+- [ ] Dia 4 - 05/09/2019
+- [ ] Dia 5 - 06/09/2019
 
 <footer>
  
