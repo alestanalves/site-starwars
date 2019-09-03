@@ -14,6 +14,14 @@
   <li> Site de documentação do Git -> <a href="https://git-scm.com/doc">Documentação</a> </li>
 </ul>
 
+<b><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Alguns códigos essenciais do git:</b>
+
+Comitar um arquivo
+git commit meu_arquivo.txt
+Comitar vários arquivos
+git commit meu_arquivo.txt meu_outro_arquivo.txt
+Comitar informando mensagem
+git commit meuarquivo.txt -m "minha mensagem de commit"
 
 <footer>
  
