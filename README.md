@@ -40,7 +40,7 @@
 - **_Geral_** = `git help`
 - **_Acessar pasta_** = `cd nomedapasta`
 - **_Listar o que tem na pastas_** = `ls`
-
+- **_Mostrar origin_** = `git remote show`
 
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
