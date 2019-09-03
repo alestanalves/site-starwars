@@ -38,7 +38,7 @@
 - **_Vincular repositório local com um repositório remoto_** = `git remote add origin git@github.com:leocomelli/curso-git.git`
 - **_Atualizar os arquivos no branch atual_** = `git push -u origin master`
 - **_Geral_** = `git help`
-- **_Acessar pasta_** = `cd nomedapasta`
+- **_Acessar pasta_** = `cd nomedapasta/`
 - **_Listar o que tem na pastas_** = `ls`
 - **_Mostrar origin_** = `git remote show`
 
@@ -48,7 +48,7 @@
 Minhas checkbox para cada um dos dias, full dopamina ao completar cada item =)
   
 - [x] Dia 1 - 02/09/2019
-- [ ] Dia 2 - 03/09/2019
+- [x] Dia 2 - 03/09/2019
 - [ ] Dia 3 - 04/09/2019
 - [ ] Dia 4 - 05/09/2019
 - [ ] Dia 5 - 06/09/2019
