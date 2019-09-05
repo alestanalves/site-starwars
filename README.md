@@ -71,7 +71,7 @@ Minhas checkbox para cada um dos dias, full dopamina ao completar cada item =)
 - [x] Dia 1 - 02/09/2019
 - [x] Dia 2 - 03/09/2019
 - [x] Dia 3 - 04/09/2019
-- [ ] Dia 4 - 05/09/2019
+- [x] Dia 4 - 05/09/2019
 - [ ] Dia 5 - 06/09/2019
 
 <footer>
