@@ -19,6 +19,12 @@
   </a>
  </p> 
 
+<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Update 1 - Star Wars Intro:</h4>
+
+> Star Wars intro text in HTML and CSS
+
+<img src="https://user-images.githubusercontent.com/48387196/64313402-e61e7f80-cf81-11e9-9b31-4e0c14229100.gif"  width="50%" />
+
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Coisas legais citadas na aula:</h4>
 
