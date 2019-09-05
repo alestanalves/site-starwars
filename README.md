@@ -15,7 +15,7 @@
   </a>
    </a>
   <a href = "http://rogerdudler.github.io/git-guide/index.pt_BR.html">
-  <img src="https://user-images.githubusercontent.com/48387196/64306429-1b6aa380-cf69-11e9-9f98-1f9667f8bbce.png"  width="85" />
+  <img src="https://user-images.githubusercontent.com/48387196/64306429-1b6aa380-cf69-11e9-9f98-1f9667f8bbce.png"  width="65" />
   </a>
  </p> 
 
