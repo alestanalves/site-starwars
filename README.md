@@ -3,7 +3,6 @@
     <img src="https://ftp.mastertech.com.br/Nginx-Fancyindex-Theme/Nginx-Fancyindex-Theme-light/estacao-logo.png"  width="100" /></h1>
 </nav>
 
-![https://git-scm.com/downloads](https://user-images.githubusercontent.com/48387196/64304596-d93e6380-cf62-11e9-94fc-9b386c562c52.png)
 
   
 <h3>Primeiro dia de códigos na Estação Hack </h3>
