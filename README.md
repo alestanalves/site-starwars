@@ -1,5 +1,5 @@
 <nav>
-  <h1>Academia - Mastertech - Estação Hack  
+  <h1>Projeto Site Star Wars - Estação Hack  
     <img src="https://ftp.mastertech.com.br/Nginx-Fancyindex-Theme/Nginx-Fancyindex-Theme-light/estacao-logo.png"  width="100" /></h1>
 </nav>
  <p>
@@ -19,8 +19,6 @@
   </a>
  </p> 
 
-<h3>Primeiro dia de códigos na Estação Hack </h3>
-<p>Programamos um site sobre Friends! Eu fiz um pouco diferente e fiz sobre Star Wars!</p>
 
 <h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Coisas legais citadas na aula:</h4>
 
