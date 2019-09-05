@@ -60,7 +60,7 @@
 - **_Voltar Pastas_** = `cd ..`
 
 
-<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>!!
+<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
 
 Minhas checkbox para cada um dos dias, full dopamina ao completar cada item =)
   
