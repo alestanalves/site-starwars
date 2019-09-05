@@ -2,6 +2,9 @@
   <h1>Academia - Mastertech - Estação Hack  
     <img src="https://ftp.mastertech.com.br/Nginx-Fancyindex-Theme/Nginx-Fancyindex-Theme-light/estacao-logo.png"  width="100" /></h1>
 </nav>
+
+![https://git-scm.com/downloads](https://user-images.githubusercontent.com/48387196/64304596-d93e6380-cf62-11e9-94fc-9b386c562c52.png)
+
   
 <h3>Primeiro dia de códigos na Estação Hack </h3>
 <p>Programamos um site sobre Friends! Eu fiz um pouco diferente e fiz sobre Star Wars!</p>
@@ -44,7 +47,7 @@
 - **_Voltar Pastas_** = `cd ..`
 
 
-<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>
+<h4><img src="https://media.giphy.com/media/dwDhATtza3TtS/source.gif"  width="35"  />Commits por dias(primeira semana):</h4>!!
 
 Minhas checkbox para cada um dos dias, full dopamina ao completar cada item =)
   
